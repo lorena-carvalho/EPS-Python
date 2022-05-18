@@ -1,1 +1,1 @@
-print("Alo mundo")
+from EstruturaSequencial import ep02
