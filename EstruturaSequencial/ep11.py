@@ -7,5 +7,5 @@ soma= 3*num1+num3
 pot=num3**3
 
 print("o produto do dobro do primeiro com metade do segundo:",mult)
-print("a soma do triplo do primeiro com o terceiro",soma)
-print("o terceiro elevado ao cubo",pot)
+print("a soma do triplo do primeiro com o terceiro:",soma)
+print("o terceiro elevado ao cubo:",pot)
